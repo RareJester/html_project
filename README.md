@@ -1,2 +1,2 @@
 # html_project
-David is stupid
+David's deck is extremely gay
