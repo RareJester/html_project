@@ -1,0 +1,66 @@
+@import url(https://fonts.googleapis.com/css2?family=Pixelify+Sans&display=swap);
+
+body {
+  background-color: #256C52;
+  font-family: 'Pixelify Sans';
+}
+
+header {
+  background-image: url('Images/Plant-Background.jpg');
+  justify-self: center;
+  font-display: auto;
+  transform: translateY(-100px);
+  height: 270px;
+  width: 110%;
+}
+
+section {
+  justify-items: center;
+}
+
+p {
+  color: #ffffff;
+  font-size: 21px;
+}
+
+h1 {
+  color: #05472A;
+  transform: translateY(57px);
+  font-size: 70px;
+  font-weight: bold;
+  margin-left: 250px;
+  margin-right: 250px;
+  justify-self: center;
+}
+
+h2 {
+  color: #8BD2B8;
+  font-size: 50px;
+}
+
+img {
+  height: 235px;
+  width: auto;
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: #44eb81;
+  border: none;
+  border-radius: 10px;
+  margin-bottom: 20px;
+
+  font-family: 'Pixelify Sans';
+  font-size: 25px;
+  color: #ffffff;
+
+  width: 150px;
+  height: 70px;
+  
+  display: block;
+  margin: 0 auto;
+}
+
+button:hover {
+  background-color: #a2f888;
+}
