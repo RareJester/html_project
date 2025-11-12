@@ -6,7 +6,7 @@ body {
 }
 
 header {
-  background-image: url('Images/Plant-Background.jpg');
+  background-image: url('Plant-Background.jpg');
   justify-self: center;
   font-display: auto;
   transform: translateY(-100px);
@@ -63,4 +63,5 @@ button {
 
 button:hover {
   background-color: #a2f888;
+
 }
